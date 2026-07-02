@@ -59,6 +59,5 @@ This prints accuracy and a classification report for all three models to the con
 - `gender` and `smoking_history` are label-encoded rather than one-hot encoded, which imposes an arbitrary numeric order on categories that don't actually have one.
 - Hyperparameters (KNN's k=5, Decision Tree's max_depth=5) are fixed values, not tuned via cross-validation.
 
-## License
-
-MIT (or your choice — add a `LICENSE` file).
+## AUTHOR
+ROHAN TIWARI , RESEARCHER , TIET-UQ   
